@@ -55,3 +55,7 @@ webgoat.script
 TestClass.class
 **/*.flattened-pom.xml
 /.gitconfig
+
+
+.dccache
+.dcignore
